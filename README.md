@@ -8,4 +8,4 @@ Currently includes Hetzner single bare-metal server and Directus CMS setup for p
 nix develop
 ```
 
-brinks Colmena for deployment.
+brings Colmena for deployment.
