@@ -28,6 +28,10 @@
     requirePass = "secret";
   };
 
+  services.meilisearch = {
+    enable = true;
+  };
+
   virtualisation = {
     podman = {
       enable = true;
